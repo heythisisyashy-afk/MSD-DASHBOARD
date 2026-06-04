@@ -18,8 +18,11 @@ The objective of this project is to demonstrate how data analytics and business 
 
 ---
 
-## 📊 Dashboard Features
+## 📷 Dashboard Preview
 
+![MS Dhoni Dashboard](MSD DASHBOARD.png)
+
+---
 ### Career Overview
 - Total Runs
 - Total Matches
