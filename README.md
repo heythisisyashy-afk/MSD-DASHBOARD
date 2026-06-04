@@ -20,7 +20,8 @@ The objective of this project is to demonstrate how data analytics and business 
 
 ## 📷 Dashboard Preview
 
-![MS Dhoni Dashboard](MSD DASHBOARD.png)
+<img width="1366" height="768" alt="MSD DASHBOARD png" src="https://github.com/user-attachments/assets/d609c63a-b930-443d-94ff-daf1abc98c0c" />
+
 
 ---
 ### Career Overview
